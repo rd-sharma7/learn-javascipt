@@ -1,5 +1,5 @@
 There are many number of methods can used with array in javascript most are below :
-
+[lindked link](https://www.linkedin.com/feed/update/urn:li:activity:7287340230175596544/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7287340230175596544%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
 
 1. .push() 
 
