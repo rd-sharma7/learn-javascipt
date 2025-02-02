@@ -1,4 +1,4 @@
-# faulity calulator
+# 1. faulity calulator
 
 1. We can gerate a random number range from 0 to 1 using **Math.random()** Method and can store in variable like 
 
