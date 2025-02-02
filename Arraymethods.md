@@ -1,6 +1,26 @@
 There are many number of methods can used with array in javascript most are below :
 [lindked link](https://www.linkedin.com/feed/update/urn:li:activity:7287340230175596544/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7287340230175596544%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
 
+
+# Inshort
+
+1. push()
+2. pop()
+3. shift()
+4. unshift()
+5. slice()
+6. splice()
+7. map()
+8. filter()
+9. reduce()
+10. forEach()
+11. find()
+12. findIndex()
+13. includes()
+14. sort()
+
+
+
 1. .push() 
 
 what it does: Adds elements to the end of an array
